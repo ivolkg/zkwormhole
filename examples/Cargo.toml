@@ -21,6 +21,7 @@ members = [
   "wasm",
   "wordle",
   "wordle/core",
+  "wormhole",
   "zkevm-demo",
   "zkevm-demo/core",
 ]
