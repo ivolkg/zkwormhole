@@ -13,7 +13,7 @@ risc0-zkp = { workspace = true }
 risc0-zkvm = { workspace = true, features = ["default"] }
 risc0-zkvm-methods = { path = "../risc0/zkvm/methods" }
 tempfile = "3.5"
-which = "4.4"
+which = "5.0"
 xshell = "0.2"
 
 [package.metadata.release]
